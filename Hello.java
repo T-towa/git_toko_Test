@@ -2,6 +2,7 @@ public class Hello{
 
     public static void main(String[] args){
 
+
         int a = 5;
         int count = 0;
 
@@ -12,6 +13,6 @@ public class Hello{
 
         }
 
-        System.out.println(count); 
+        System.out.println(count);
     }
 }
